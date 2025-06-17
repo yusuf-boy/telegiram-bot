@@ -1616,10 +1616,618 @@ questions_eng2 = [
     }
 ]
 
+questions_eng3 = [
+{
+        "question": "1. The Normans were originally from:",
+        "options": ["A) France", "B) England", "C) Scandinavia", "D) Germany"],
+        "answer": "C) Scandinavia"
+    },
+    {
+        "question": "2. According to its vocabulary, English is partly a Germanic and partly a:",
+        "options": ["A) Slavic", "B) Celtic", "C) Romance", "D) Baltic"],
+        "answer": "C) Romance"
+    },
+    {
+        "question": "3. Which word seems odd in the list below?",
+        "options": ["A) Bread", "B) Cheese", "C) Pizza", "D) Butter"],
+        "answer": "C) Pizza"
+    },
+    {
+        "question": "4. Which word seems odd in the list below?",
+        "options": ["A) Plough", "B) Axe", "C) Robot", "D) Hoe"],
+        "answer": "C) Robot"
+    },
+    {
+        "question": "5. The greatest author of the Middle English period is:",
+        "options": ["A) William Shakespeare", "B) John Milton", "C) Geoffrey Chaucer", "D) Thomas Malory"],
+        "answer": "C) Geoffrey Chaucer"
+    },
+    {
+        "question": "6. “Whan that April with his shoures soote” is the beginning of:",
+        "options": ["A) Beowulf", "B) The Bible", "C) Sir Gawain and the Green Knight", "D) The Canterbury Tales"],
+        "answer": "D) The Canterbury Tales"
+    },
+    {
+        "question": "7. Which word seems odd in the list below?",
+        "options": ["A) Hammer", "B) Spade", "C) Saw", "D) Computer"],
+        "answer": "D) Computer"
+    },
+    {
+        "question": "8. Among the main dialect groups in the 14th century, which one did NOT exist?",
+        "options": ["A) East Midland", "B) Kentish", "C) Northern-Western", "D) Southern"],
+        "answer": "C) Northern-Western"
+    },
+    {
+        "question": "9. English was first used in Parliament in:",
+        "options": ["A) 1066", "B) 1200", "C) 1362", "D) 1500"],
+        "answer": "C) 1362"
+    },
+    {
+        "question": "10. The history of Middle English started after the Battle of:",
+        "options": ["A) Waterloo", "B) Hastings", "C) Agincourt", "D) Yorktown"],
+        "answer": "B) Hastings"
+    },
+    {
+        "question": "11. The phonetic phenomenon that caused spelling/pronunciation change is:",
+        "options": [
+            "A) Consonant Shift",
+            "B) The Great Vowel Shift",
+            "C) Back Mutation",
+            "D) Nasalization"
+        ],
+        "answer": "B) The Great Vowel Shift"
+    },
+    {
+        "question": "12. The 3rd person plural “they” is borrowed from:",
+        "options": [
+            "A) Latin",
+            "B) French",
+            "C) Old Norse",
+            "D) Gothic"
+        ],
+        "answer": "C) Old Norse"
+    },
+    {
+        "question": "13. Which word seems odd in the list below?",
+        "options": [
+            "A) Fish",
+            "B) Bread",
+            "C) Sushi",
+            "D) Milk"
+        ],
+        "answer": "C) Sushi"
+    },
+    {
+        "question": "14. Which word seems odd in the list below?",
+        "options": [
+            "A) Apple",
+            "B) Pear",
+            "C) Banana",
+            "D) Plum"
+        ],
+        "answer": "C) Banana"
+    },
+    {
+        "question": "15. After the Norman conquest, teaching in England was mostly in:",
+        "options": [
+            "A) English",
+            "B) French",
+            "C) Latin",
+            "D) German"
+        ],
+        "answer": "C) Latin"
+    },
+    {
+        "question": "16. The first book printed in English was:",
+        "options": [
+            "A) Utopia",
+            "B) The Canterbury Tales",
+            "C) The Bible",
+            "D) The Recuyell of the Historyes of Troye"
+        ],
+        "answer": "D) The Recuyell of the Historyes of Troye"
+    },
+    {
+        "question": "17. The Middle English word “ich” meant:",
+        "options": [
+            "A) You",
+            "B) He",
+            "C) They",
+            "D) I"
+        ],
+        "answer": "D) I"
+    },
+    {
+        "question": "18. William Tyndale is famous for:",
+        "options": [
+            "A) Inventing printing",
+            "B) Creating dictionaries",
+            "C) Translating the Bible",
+            "D) Writing poems"
+        ],
+        "answer": "C) Translating the Bible"
+    },
+    {
+        "question": "19. Which sound first appeared in Middle English?",
+        "options": [
+            "A) [θ]",
+            "B) [ʃ]",
+            "C) [ʒ]",
+            "D) [f]"
+        ],
+        "answer": "C) [ʒ]"
+    },
+    {
+        "question": "20. In Middle English, the short [u] sound changed to:",
+        "options": [
+            "A) [e]",
+            "B) [o]",
+            "C) [ʌ]",
+            "D) [i]"
+        ],
+        "answer": "C) [ʌ]"
+    },
+    {
+        "question": "21. The Germanic group belongs to what wider language family?",
+        "options": [
+            "A) Semitic",
+            "B) Uralic",
+            "C) Finno-Ugric",
+            "D) Indo-European"
+        ],
+        "answer": "D) Indo-European"
+    },
+    {
+        "question": "22. Old English is part of which language group?",
+        "options": [
+            "A) East Germanic",
+            "B) North Germanic",
+            "C) West Germanic",
+            "D) Romance"
+        ],
+        "answer": "C) West Germanic"
+    },
+    {
+        "question": "23. Old English shares most features with:",
+        "options": [
+            "A) Old French",
+            "B) Old High German",
+            "C) Latin",
+            "D) Gothic"
+        ],
+        "answer": "B) Old High German"
+    },
+    {
+        "question": "24. Who introduced the Latin alphabet to Old English?",
+        "options": [
+            "A) Vikings",
+            "B) Celtic druids",
+            "C) Christian missionaries",
+            "D) Roman emperors"
+        ],
+        "answer": "C) Christian missionaries"
+    },
+    {
+        "question": "25. Which letter existed in Old English but not in Modern English?",
+        "options": [
+            "A) Q",
+            "B) Z",
+            "C) Þ (thorn)",
+            "D) R"
+        ],
+        "answer": "C) Þ (thorn)"
+    },
+    {
+        "question": "26. Syntax studies:",
+        "options": [
+            "A) Word meaning",
+            "B) Pronunciation",
+            "C) Sentence structure",
+            "D) Vocabulary origin"
+        ],
+        "answer": "C) Sentence structure"
+    },
+    {
+        "question": "27. A key difference in Old English syntax is:",
+        "options": [
+            "A) Lack of verbs",
+            "B) Greater word order flexibility",
+            "C) No pronouns",
+            "D) Use of rhymes"
+        ],
+        "answer": "B) Greater word order flexibility"
+    },
+    {
+        "question": "28. A “kenning” is:",
+        "options": [
+            "A) A rhyme",
+            "B) A word puzzle",
+            "C) A compound metaphor",
+            "D) A grammatical rule"
+        ],
+        "answer": "C) A compound metaphor"
+    },
+    {
+        "question": "29. Old English poetry is structured with:",
+        "options": [
+            "A) Rhyming couplets",
+            "B) Sonnets",
+            "C) Alliteration",
+            "D) Free verse"
+        ],
+        "answer": "C) Alliteration"
+    },
+    {
+        "question": "30. Subject pronouns were often omitted in Old English because:",
+        "options": [
+            "A) They were unknown",
+            "B) They were unnecessary",
+            "C) Verb endings showed the subject",
+            "D) It was poetic tradition"
+        ],
+        "answer": "C) Verb endings showed the subject"
+    },
+    {
+        "question": "31. What historical event marks the beginning of Middle English?",
+        "options": ["A) Printing press invention", "B) Norman Conquest", "C) Viking invasions", "D) Black Death"],
+        "answer": "B) Norman Conquest"
+    },
+    {
+        "question": "32. Which dialect influenced Standard Middle English the most?",
+        "options": ["A) Kentish", "B) Northumbrian", "C) East Midland", "D) Mercian"],
+        "answer": "C) East Midland"
+    },
+    {
+        "question": "33. What happened to Old English grammar in the Middle English period?",
+        "options": ["A) It became more complex", "B) It remained unchanged", "C) It was simplified",
+                    "D) It was replaced by Latin"],
+        "answer": "C) It was simplified"
+    },
+    {
+        "question": "34. One of the most famous Middle English literary works is:",
+        "options": ["A) Beowulf", "B) Hamlet", "C) The Canterbury Tales", "D) Utopia"],
+        "answer": "C) The Canterbury Tales"
+    },
+    {
+        "question": "35. Major pronunciation change in Middle English was:",
+        "options": ["A) Nasalization", "B) The Great Vowel Shift", "C) Grimm’s Law", "D) Palatalization"],
+        "answer": "B) The Great Vowel Shift"
+    },
+    {
+        "question": "36. A notable writer of Middle English is:",
+        "options": ["A) Shakespeare", "B) Caxton", "C) Chaucer", "D) Tyndale"],
+        "answer": "C) Chaucer"
+    },
+    {
+        "question": "37. The standard that influenced Early Modern English is called:",
+        "options": ["A) Royal English", "B) Chancery Standard", "C) Wessex Standard", "D) National English"],
+        "answer": "B) Chancery Standard"
+    },
+    {
+        "question": "38. Middle English covered which period?",
+        "options": ["A) 900–1200", "B) 1000–1300", "C) 1150–1500", "D) 1066–1700"],
+        "answer": "C) 1150–1500"
+    },
+    {
+        "question": "39. What transition occurred between 1150s–1180s?",
+        "options": ["A) French invasion", "B) Shift from Old to Middle English", "C) Birth of Chaucer",
+                    "D) End of Latin use"],
+        "answer": "B) Shift from Old to Middle English"
+    },
+    {
+        "question": "40. What did Old Norse mostly influence in English?",
+        "options": ["A) Alphabet", "B) Syntax", "C) Grammar and basic vocabulary", "D) Literature"],
+        "answer": "C) Grammar and basic vocabulary"
+    },
+    {
+        "question": "41. The National English language formed in the:",
+        "options": ["A) 13th century", "B) Early 14th century", "C) Late 15th to early 16th century",
+                    "D) 12th century"],
+        "answer": "C) Late 15th to early 16th century"
+    },
+    {
+        "question": "42. National English was based on which dialect?",
+        "options": ["A) Northern", "B) Southern", "C) East Midland", "D) West Saxon"],
+        "answer": "C) East Midland"
+    },
+    {
+        "question": "43. Which of the following developed from Vulgar Latin?",
+        "options": ["A) Old English", "B) Old Norse", "C) French", "D) Gothic"],
+        "answer": "C) French"
+    },
+    {
+        "question": "44. When was English spoken only in the British Isles?",
+        "options": ["A) Pre-17th century", "B) 18th century", "C) 12th century", "D) During WWI"],
+        "answer": "A) Pre-17th century"
+    },
+    {
+        "question": "45. The English spoken from 1700 to today is:",
+        "options": ["A) Middle English", "B) Old English", "C) Early Modern English", "D) Modern English"],
+        "answer": "D) Modern English"
+    },
+    {
+        "question": "46. English in the Old English period was a ___ language.",
+        "options": ["A) Analytic", "B) Synthetic", "C) Creole", "D) Romance"],
+        "answer": "B) Synthetic"
+    },
+    {
+        "question": "47. In the New English period, English is a/an:",
+        "options": ["A) Synthetic", "B) Isolated", "C) Analytic ,global", "D) Mixed"],
+        "answer": "C) Analytic ,global"
+    },
+    {
+        "question": "48. How many tenses existed in Old English?",
+        "options": ["A) Four", "B) Three", "C) Two", "D) Six"],
+        "answer": "C) Two"
+    },
+    {
+        "question": "49. Typologically, Old English was a/an:",
+        "options": ["A) Analytic language", "B) Isolating language", "C) Synthetic language", "D) Creole"],
+        "answer": "C) Synthetic language"
+    },
+    {
+        "question": "50. Runes were NOT written on:",
+        "options": ["A) Wood", "B) Stone", "C) Metal", "D) Paper"],
+        "answer": "D) Paper"
+    },
+    {
+        "question": "51. When did William Caxton introduce the printing press to England?",
+        "options": ["A) 1066", "B) 1215", "C) 1476", "D) 1604"],
+        "answer": "C) 1476"
+    },
+    {
+        "question": "52. Who brought Latin to Britain?",
+        "options": ["A) Celts", "B) Anglo-Saxons", "C) Romans", "D) Normans"],
+        "answer": "C) Romans"
+    },
+    {
+        "question": "53. What dialect was used by Shakespeare?",
+        "options": ["A) Middle English", "B) Northern", "C) Early Modern English", "D) Kentish"],
+        "answer": "C) Early Modern English"
+    },
+    {
+        "question": "54. Who commissioned the first English Bible translation?",
+        "options": ["A) Henry VIII", "B) William I", "C) King James I", "D) Edward the Confessor"],
+        "answer": "C) King James I"
+    },
+    {
+        "question": "55. Which language had the least influence on Old English vocabulary?",
+        "options": ["A) French", "B) Latin", "C) Celtic", "D) Norse"],
+        "answer": "C) Celtic"
+    },
+    {
+        "question": "56. Old English refers to English from:",
+        "options": ["A) 10th to 13th centuries", "B) 5th to 11th centuries", "C) 12th to 15th centuries",
+                    "D) 1st to 5th centuries"],
+        "answer": "B) 5th to 11th centuries"
+    },
+    {
+        "question": "57. The West Saxon dialect was spoken in:",
+        "options": ["A) Mercia", "B) Wessex", "C) Kent", "D) Northumbria"],
+        "answer": "B) Wessex"
+    },
+    {
+        "question": "58. The shift to Middle English was mainly caused by:",
+        "options": ["A) The Black Death", "B) The Viking raids", "C) The Norman Conquest", "D) Printing press"],
+        "answer": "C) The Norman Conquest"
+    },
+    {
+        "question": "59. Whose work helped stabilize Early Modern English spelling?",
+        "options": ["A) John Milton", "B) Geoffrey Chaucer", "C) William Shakespeare", "D) Bede"],
+        "answer": "C) William Shakespeare"
+    },
+    {
+        "question": "60. Who published the first major English dictionary (1755)?",
+        "options": ["A) Caxton", "B) Samuel Johnson", "C) Noah Webster", "D) William Tyndale"],
+        "answer": "B) Samuel Johnson"
+    },
+{
+    "question": "61. How many traditional periods are in the history of English?",
+    "options": ["A) Two", "B) Three", "C) Four", "D) Five"],
+    "answer": "B) Three"
+  },
+  {
+    "question": "62. The shift of consonants in Germanic from Indo-European is called:",
+    "options": ["A) Grimm’s Law", "B) Verner’s Law", "C) The Great Vowel Shift", "D) Sound Shift Law"],
+    "answer": "A) Grimm’s Law"
+  },
+  {
+    "question": "63. Which of these is NOT a Germanic language?",
+    "options": ["A) German", "B) Dutch", "C) French", "D) Icelandic"],
+    "answer": "C) French"
+  },
+  {
+    "question": "64. Which extinct Germanic language is no longer spoken?",
+    "options": ["A) Danish", "B) Gothic", "C) Swedish", "D) Frisian"],
+    "answer": "B) Gothic"
+  },
+  {
+    "question": "65. Which Germanic language has many Hebrew and Slavic borrowings?",
+    "options": ["A) Norwegian", "B) Yiddish", "C) Frisian", "D) Dutch"],
+    "answer": "B) Yiddish"
+  },
+  {
+    "question": "66. Which Germanic language has no close ties to the Netherlands?",
+    "options": ["A) Afrikaans", "B) Flemish", "C) Icelandic", "D) Dutch"],
+    "answer": "C) Icelandic"
+  },
+  {
+    "question": "67. The word “saga” is from which folklore tradition?",
+    "options": ["A) Celtic", "B) German", "C) Norse/Icelandic", "D) Roman"],
+    "answer": "C) Norse/Icelandic"
+  },
+  {
+    "question": "68. The Younger and Older Edda are collections of:",
+    "options": ["A) Fairy tales", "B) Norse mythology and poetry", "C) Latin hymns", "D) Germanic laws"],
+    "answer": "B) Norse mythology and poetry"
+  },
+  {
+    "question": "69. Which Germanic tribe gave its name to a Spanish province?",
+    "options": ["A) Visigoths", "B) Vandals", "C) Franks", "D) Saxons"],
+    "answer": "B) Vandals"
+  },
+  {
+    "question": "70. Which Germanic language is NOT spoken in Europe?",
+    "options": ["A) German", "B) Afrikaans", "C) Dutch", "D) Norwegian"],
+    "answer": "B) Afrikaans"
+  },
+  {
+    "question": "71. Until the early 20th century, Norway’s literary language was:",
+    "options": ["A) Swedish", "B) Old Norse", "C) Danish", "D) English"],
+    "answer": "C) Danish"
+  },
+  {
+    "question": "72. English borrowed about half of its vocabulary from:",
+    "options": ["A) Latin", "B) French", "C) German", "D) Dutch"],
+    "answer": "B) French"
+  },
+  {
+    "question": "73. Which Germanic language did NOT use the Latin alphabet?",
+    "options": ["A) Gothic", "B) English", "C) Norwegian", "D) Yiddish"],
+    "answer": "A) Gothic"
+  },
+  {
+    "question": "74. East Gothic was spoken in modern-day:",
+    "options": ["A) Germany and Austria", "B) France and Italy", "C) Ukraine and the Balkans", "D) Spain and Portugal"],
+    "answer": "C) Ukraine and the Balkans"
+  },
+  {
+    "question": "75. Yiddish is basically a dialect of:",
+    "options": ["A) Hebrew", "B) Slavic", "C) German", "D) Latin"],
+    "answer": "C) German"
+  },
+  {
+    "question": "76. 1,500 years ago, the closest language to Old English was:",
+    "options": ["A) Old High German", "B) Old Frisian", "C) Latin", "D) Gothic"],
+    "answer": "B) Old Frisian"
+  },
+  {
+    "question": "77. Which language has High and Low variants?",
+    "options": ["A) French", "B) Dutch", "C) German", "D) Swedish"],
+    "answer": "C) German"
+  },
+  {
+    "question": "78. The state language of Finland (of Scandinavian origin) is:",
+    "options": ["A) Finnish", "B) Norwegian", "C) Swedish", "D) Danish"],
+    "answer": "C) Swedish"
+  },
+  {
+    "question": "79. Which European country was named after a Germanic tribe?",
+    "options": ["A) Germany", "B) France", "C) Spain", "D) Hungary"],
+    "answer": "B) France"
+  },
+  {
+    "question": "80. The people of which country are named after a Germanic tribe?",
+    "options": ["A) Dutch (Netherlands)", "B) Irish", "C) Scots", "D) Italians"],
+    "answer": "A) Dutch (Netherlands)"
+  },
+  {
+    "question": "81. Old English borrowed many words from:",
+    "options": ["A) Old Norse", "B) Greek", "C) Latin", "D) Celtic"],
+    "answer": "C) Latin"
+  },
+  {
+    "question": "82. How many cases did Old English nouns have?",
+    "options": ["A) 3", "B) 4", "C) 5", "D) 6"],
+    "answer": "C) 5"
+  },
+  {
+    "question": "83. How many grammatical genders were in Old English?",
+    "options": ["A) Two", "B) Four", "C) Three", "D) None"],
+    "answer": "C) Three"
+  },
+  {
+    "question": "84. The letter Ɯ in Old English represented the sound:",
+    "options": ["A) [ʃ]", "B) [w]", "C) [θ]", "D) [j]"],
+    "answer": "B) [w]"
+  },
+  {
+    "question": "85. The runic alphabet avoided:",
+    "options": ["A) Straight lines", "B) Angles", "C) Curves", "D) Circles"],
+    "answer": "C) Curves"
+  },
+  {
+    "question": "86. The great Old English epic poem is:",
+    "options": ["A) The Seafarer", "B) Beowulf", "C) The Dream of the Rood", "D) Sir Gawain"],
+    "answer": "B) Beowulf"
+  },
+  {
+    "question": "87. Runes were written on:",
+    "options": ["A) Parchment", "B) Paper", "C) Wood, stone, and metal", "D) Leather only"],
+    "answer": "C) Wood, stone, and metal"
+  },
+  {
+    "question": "88. How many Anglo-Saxon kingdoms were in Britain?",
+    "options": ["A) Five", "B) Six", "C) Seven", "D) Nine"],
+    "answer": "C) Seven"
+  },
+  {
+    "question": "89. Old English verbs had how many verbals?",
+    "options": ["A) One", "B) Two", "C) Three", "D) Four"],
+    "answer": "C) Three"
+  },
+  {
+    "question": "90. How many numbers did Old English nouns show?",
+    "options": ["A) One", "B) Two", "C) Three", "D) Four"],
+    "answer": "B) Two"
+  },
+  {
+    "question": "91. English belongs to which language family?",
+    "options": ["A) Semitic", "B) Uralic", "C) Indo-European", "D) Altaic"],
+    "answer": "C) Indo-European"
+  },
+  {
+    "question": "92. Which invasion most influenced English?",
+    "options": ["A) Roman", "B) Viking", "C) Norman", "D) Saxon"],
+    "answer": "C) Norman"
+  },
+  {
+    "question": "93. The earliest form of English is called:",
+    "options": ["A) Anglo-Latin", "B) Anglo-Norman", "C) Old English", "D) Early Modern English"],
+    "answer": "C) Old English"
+  },
+  {
+    "question": "94. Which tribes created Old English?",
+    "options": ["A) Celts, Picts, Britons", "B) Romans, Gauls", "C) Angles, Saxons, Jutes", "D) Vikings, Normans"],
+    "answer": "C) Angles, Saxons, Jutes"
+  },
+  {
+    "question": "95. Who wrote Beowulf?",
+    "options": ["A) Chaucer", "B) Bede", "C) Anonymous", "D) Caedmon"],
+    "answer": "C) Anonymous"
+  },
+  {
+    "question": "96. What helped standardize English spelling and grammar?",
+    "options": ["A) Norman conquest", "B) Viking invasions", "C) Printing press", "D) Industrial Revolution"],
+    "answer": "C) Printing press"
+  },
+  {
+    "question": "97. In which period did Shakespeare write?",
+    "options": ["A) Middle English", "B) Old English", "C) Early Modern English", "D) Modern English"],
+    "answer": "C) Early Modern English"
+  },
+  {
+    "question": "98. Main result of the Norman Invasion?",
+    "options": ["A) English became extinct", "B) Latin was revived", "C) French vocabulary entered English", "D) Old English grammar was restored"],
+    "answer": "C) French vocabulary entered English"
+  },
+  {
+    "question": "99. Which language most influenced Middle English vocabulary?",
+    "options": ["A) Latin", "B) Norse", "C) French", "D) German"],
+    "answer": "C) French"
+  },
+  {
+    "question": "100. What was the Great Vowel Shift?",
+    "options": ["A) Spelling reform", "B) Syntactic simplification", "C) Major pronunciation change", "D) Invention of rhyming poetry"],
+    "answer": "C) Major pronunciation change"
+  }
+]
 
-questions_kor3 = []
+questions_eng4 = []
 
-questions_kor4 = []
+questions_kor5 = []
+
+questions_kor6 = []
 
 # Foydalanuvchi holatlari
 user_progress = {}
@@ -1632,8 +2240,10 @@ def get_questions(test_key):
     return {
         'test1': questions_eng1,
         'test2': questions_eng2,
-        'test3': questions_kor3,
-        'test4': questions_kor4
+        'test3': questions_eng3,
+        'test4': questions_eng4,
+        'test5': questions_kor5,
+        'test6': questions_kor6,
     }.get(test_key, [])
 
 
@@ -1642,8 +2252,10 @@ async def show_main_menu(update, context):
     keyboard = [
         [InlineKeyboardButton("📝 English Test 1", callback_data='test1')],
         [InlineKeyboardButton("📝 English Test 2", callback_data='test2')],
-        [InlineKeyboardButton("🇰🇷 Korean Test 3", callback_data='test3')],
-        [InlineKeyboardButton("🇰🇷 Korean Test 4", callback_data='test4')],
+        [InlineKeyboardButton("📝 English Test 3", callback_data='test3')],
+        [InlineKeyboardButton("📝 English Test 4", callback_data='test4')],
+        [InlineKeyboardButton("🇰🇷 Korean Test 5", callback_data='test5')],
+        [InlineKeyboardButton("🇰🇷 Korean Test 6", callback_data='test6')],
     ]
     reply_markup = InlineKeyboardMarkup(keyboard)
 
@@ -1674,7 +2286,7 @@ async def send_question(update: Update, context: ContextTypes.DEFAULT_TYPE, revi
 
     q = questions[index]
 
-    buttons = [[InlineKeyboardButton(opt, callback_data=opt[0])] for opt in q["options"]]
+    buttons = [[InlineKeyboardButton(opt, callback_data=opt)] for opt in q["options"]] ### shuyerga ham (opt[0])
 
     # 🔁 Qo‘shimcha tugmalar (orqaga va qaytadan)
     navigation_buttons = []
@@ -1735,7 +2347,7 @@ async def handle_answer(update: Update, context: ContextTypes.DEFAULT_TYPE):
         return
 
     selected = data
-    correct = questions[index]["answer"][0]
+    correct = questions[index]["answer"]### shuyerga [0] qoyiladii javobda korinmaslik uchun
 
     if selected == correct:
         reply = "✅ To‘g‘ri javob!"
