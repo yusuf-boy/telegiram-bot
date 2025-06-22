@@ -1921,19 +1921,19 @@ questions_eng3 = [
     },
     {
         "question": "41. The National English language formed in the:",
-        "options": ["A) 13th century", "B) Early 14th century", "C) Late 15th to early 16th century",
+        "options": ["A) 13th century", "B) Early 14th century", "C) Late 14th to early 30th century",
                     "D) 12th century"],
-        "answer": "C) Late 15th to early 16th century"
+        "answer": "C) Late 14th to early 30th century"
     },
     {
         "question": "42. National English was based on which dialect?",
-        "options": ["A) Northern", "B) Southern", "C) East Midland", "D) West Saxon"],
-        "answer": "C) East Midland"
+        "options": ["A) Northern", "B) Southern", "C) London East Midland", "D) West Saxon"],
+        "answer": "C) London East Midland"
     },
     {
         "question": "43. Which of the following developed from Vulgar Latin?",
-        "options": ["A) Old English", "B) Old Norse", "C) French", "D) Gothic"],
-        "answer": "C) French"
+        "options": ["A) Old English", "B) Old Norse", "C) Spanish, Italian French", "D) Gothic"],
+        "answer": "C) Spanish, Italian French"
     },
     {
         "question": "44. When was English spoken only in the British Isles?",
@@ -2223,17 +2223,1034 @@ questions_eng3 = [
   }
 ]
 
-questions_eng4 = []
+questions_eng4 = [
+    {
+        "question": "1. What does Lexicology study?",
+        "options": ["A) Grammar", "B) Pronunciation", "C) Vocabulary and word structure", "D) Speech patterns"],
+        "answer": "C) Vocabulary and word structure"
+    },
+    {
+        "question": "2. What is the smallest meaningful unit of language?",
+        "options": ["A) Word", "B) Sentence", "C) Phoneme", "D) Morpheme"],
+        "answer": "D) Morpheme"
+    },
+    {
+        "question": "3. Which words are called homonyms?",
+        "options": ["A) Words with similar spelling and meaning", "B) Words with the same form but different meanings",
+                    "C) Words with opposite meanings", "D) Words from the same root"],
+        "answer": "B) Words with the same form but different meanings"
+    },
+    {
+        "question": "4. What is the common term for “set expressions, fixed phrases”?",
+        "options": ["A) Collocations", "B) Proverbs", "C) Idioms", "D) Phraseological units"],
+        "answer": "D) Phraseological units"
+    },
+    {
+        "question": "5. Homonyms with the same pronunciation are called:",
+        "options": ["A) Homographs", "B) Homophones", "C) Synonyms", "D) Antonyms"],
+        "answer": "B) Homophones"
+    },
+    {
+        "question": "6. Suffixes -let, -ette, -ling indicate:",
+        "options": ["A) Time", "B) Large size", "C) Diminutives", "D) Gender"],
+        "answer": "C) Diminutives"
+    },
+    {
+        "question": "7. Local varieties of language are called:",
+        "options": ["A) Accents", "B) Slang", "C) Dialects", "D) Jargon"],
+        "answer": "C) Dialects"
+    },
+    {
+        "question": "8. Diachronic study investigates:",
+        "options": ["A) Language as it is now", "B) Language history and changes", "C) Language pronunciation",
+                    "D) Grammar only"],
+        "answer": "B) Language history and changes"
+    },
+    {
+        "question": "9. What is derivation?",
+        "options": ["A) Changing meaning through spelling", "B) Adding a prefix or suffix to form a new word",
+                    "C) Shortening a word", "D) Blending words"],
+        "answer": "B) Adding a prefix or suffix to form a new word"
+    },
+    {
+        "question": "10. Which parts of speech are most affected by conversion?",
+        "options": ["A) Prepositions and articles", "B) Adjectives and adverbs", "C) Nouns and verbs",
+                    "D) Conjunctions and interjections"],
+        "answer": "C) Nouns and verbs"
+    },
+{
+        "question": "11. All morphemes are subdivided into two large classes:",
+        "options": ["A) Roots and Suffixes", "B) Simple and Complex", "C) Root and affixes Free and Bound", "D) Open and Closed"],
+        "answer": "C) Root and affixes Free and Bound"
+    },
+    {
+        "question": "12. Word-building by combining two or more stems is called:",
+        "options": ["A) Derivation", "B) Compounding", "C) Conversion", "D) Abbreviation"],
+        "answer": "B) Compounding"
+    },
+    {
+        "question": "13. Words denoting outdated notions are called:",
+        "options": ["A) Archaic words", "B) Obsolete words", "C) Historical words", "D) Rare words"],
+        "answer": "C) Historical words"
+    },
+    {
+        "question": "14. Native words are subdivided into:",
+        "options": ["A) Slang and formal words", "B) Indo-European, Germanic, and English proper", "C) Borrowed and invented", "D) Common and proper nouns"],
+        "answer": "B) Indo-European, Germanic, and English proper"
+    },
+    {
+        "question": "15. Regional varieties of standard literary language are:",
+        "options": ["A) Slang", "B) Pidgins", "C) Territorial dialects", "D) Vernaculars"],
+        "answer": "C) Territorial dialects"
+    },
+    {
+        "question": "16. The denotative component of meaning is:",
+        "options": ["A) Emotional tone", "B) Grammar function", "C) Main conceptual meaning", "D) Stylistic usage"],
+        "answer": "C) Main conceptual meaning"
+    },
+    {
+        "question": "17. Polysemy refers to:",
+        "options": ["A) Having one meaning", "B) Having opposite meanings", "C) Having multiple meanings", "D) Being a synonym"],
+        "answer": "C) Having multiple meanings"
+    },
+    {
+        "question": "18. On what level is the word studied in vocabulary systems?",
+        "options": ["A) Syntax", "B) Pragmatics", "C) Lexical", "D) Phonological"],
+        "answer": "C) Lexical"
+    },
+    {
+        "question": "19. Etymological doublets are:",
+        "options": ["A) Synonyms from same origin but different forms", "B) Repeated morphemes", "C) Parallel suffixes", "D) Borrowed idioms"],
+        "answer": "A) Synonyms from same origin but different forms"
+    },
+    {
+        "question": "20. Syntagmatic relationships are based on:",
+        "options": ["A) Association in the mind", "B) Word form similarity", "C) Word combination in speech", "D) Dictionary definitions"],
+        "answer": "C) Word combination in speech"
+    },
+    {
+        "question": "21. Completely non-motivated word-groups are called:",
+        "options": ["A) Free word-groups", "B) Idioms", "C) Collocations", "D) Compound words"],
+        "answer": "B) Idioms"
+    },
+    {
+        "question": "22. Phraseological units are classified according to:",
+        "options": ["A) Grammar", "B) Syntax", "C) Semantic principle", "D) Word class"],
+        "answer": "C) Semantic principle"
+    },
+    {
+        "question": "23. The source of borrowing is:",
+        "options": ["A) Dialects", "B) Grammar", "C) Donor language", "D) Prefixes"],
+        "answer": "C) Donor language"
+    },
+    {
+        "question": "24. Ideographic synonyms are words that:",
+        "options": ["A) Are spelled alike", "B) Differ in style",
+                    "C) Differ in shades of meaning but belong to the same field", "D) Have opposite meanings"],
+        "answer": "C) Differ in shades of meaning but belong to the same field"
+    },
+    {
+        "question": "25. Groups of words based on semantic relations are:",
+        "options": ["A) Registers", "B) Lexical sets", "C) Jargons", "D) Phonemes"],
+        "answer": "B) Lexical sets"
+    },
+    {
+        "question": "26. Antonyms are words that differ in:",
+        "options": ["A) Form", "B) Language origin", "C) Meaning", "D) Function"],
+        "answer": "C) Meaning"
+    },
+    {
+        "question": "27. Excluded from semasiology’s study is:",
+        "options": ["A) Meaning", "B) Form", "C) Sound", "D) Style"],
+        "answer": "C) Sound"
+    },
+    {
+        "question": "28. The area of lexicology focused on word meaning is called:",
+        "options": ["A) Syntax", "B) Semasiology", "C) Morphology", "D) Phonetics"],
+        "answer": "B) Semasiology"
+    },
+    {
+        "question": "29. Words opposite in meaning are called:",
+        "options": ["A) Synonyms", "B) Homonyms", "C) Antonyms", "D) Acronyms"],
+        "answer": "C) Antonyms"
+    },
+    {
+        "question": "30. Lexicography studies:",
+        "options": ["A) Grammar rules", "B) Word meanings", "C) Dictionary making", "D) Sound systems"],
+        "answer": "C) Dictionary making"
+    },
+    {
+        "question": "31. The largest group of borrowings in English is from:",
+        "options": ["A) Latin", "B) French", "C) German", "D) Spanish"],
+        "answer": "A) Latin"
+    },
+    {
+        "question": "32. The most general term in a synonymic group is the:",
+        "options": ["A) Slang word", "B) Formal word", "C) Dominant synonym", "D) Archaic word"],
+        "answer": "C) Dominant synonym"
+    },
+    {
+        "question": "33. A borrowing is a word that came:",
+        "options": ["A) From a dialect", "B) From another language", "C) From abbreviation", "D) From slang"],
+        "answer": "B) From another language"
+    },
+    {
+        "question": "34. Words with similar meaning but different forms are:",
+        "options": ["A) Homonyms", "B) Antonyms", "C) Synonyms", "D) Neologisms"],
+        "answer": "C) Synonyms"
+    },
+    {
+        "question": "35. Homonyms proper are:",
+        "options": ["A) Same in form, unrelated in meaning", "B) Opposite in meaning", "C) Similar in sound",
+                    "D) Blended words"],
+        "answer": "A) Same in form, unrelated in meaning"
+    },
+    {
+        "question": "36. Historical Lexicology studies:",
+        "options": ["A) Dialects", "B) Word history and development", "C) Grammar rules", "D) Etymological roots only"],
+        "answer": "B) Word history and development"
+    },
+    {
+        "question": "37. Semantics studies:",
+        "options": ["A) Word formation", "B) Word pronunciation", "C) Word meaning", "D) Word spelling"],
+        "answer": "C) Word meaning"
+    },
+    {
+        "question": "38. Conversion, derivation, and composition are types of:",
+        "options": ["A) Syntax", "B) Grammar", "C) Word formation", "D) Sound change"],
+        "answer": "C) Word formation"
+    },
+    {
+        "question": "39. Affixation creates new words by:",
+        "options": ["A) Mixing two words", "B) Adding affixes", "C) Changing word order", "D) Stressing syllables"],
+        "answer": "B) Adding affixes"
+    },
+    {
+        "question": "40. Suffixes -ard, -th are:",
+        "options": ["A) Active suffixes", "B) Active suffixes,non-productive Obsolete suffixes", "C) Prefixes", "D) Foreign morphemes"],
+        "answer": "B) Active suffixes,non-productive Obsolete suffixes"
+    },
+    {
+        "question": "41. A word from original English stock is:",
+        "options": ["A) Phoneme", "B) Native word", "C) Borrowed word", "D) Neologism"],
+        "answer": "B) Native word"
+    },
+    {
+        "question": "42. Types of shortening include:",
+        "options": ["A) Conversion and derivation", "B) Compounding and blending", "C) Clipping, blending, acronyms",
+                    "D) Homonymy and antonymy"],
+        "answer": "C) Clipping, blending, acronyms"
+    },
+    {
+        "question": "43. Major types of semantic relations are:",
+        "options": ["A) Conversion and blending", "B) Synonymy, antonymy, polysemy", "C) Derivation and inflection",
+                    "D) Affixation and composition"],
+        "answer": "B) Synonymy, antonymy, polysemy"
+    },
+    {
+        "question": "44. Words are divisible into:",
+        "options": ["A) Letters", "B) Phonemes", "C) Morphemes", "D) Dialects"],
+        "answer": "C) Morphemes"
+    },
+    {
+        "question": "45. A thing to which a word refers is called:",
+        "options": ["A) Concept", "B) Referent", "C) Lexeme", "D) Phrase"],
+        "answer": "B) Referent"
+    },
+    {
+        "question": "46. Words not assimilated from other languages are:",
+        "options": ["A) Loan-blends", "B) Translation loans", "C) Barbarisms", "D) Compounds"],
+        "answer": "C) Barbarisms"
+    },
+    {
+        "question": "47. Compound-affixed words consist of:",
+        "options": ["A) One morpheme", "B) Root and suffix", "C) Compound + affix", "D) Free morpheme only"],
+        "answer": "C) Compound + affix"
+    },
+    {
+        "question": "48. The system of all word forms is called:",
+        "options": ["A) Dictionary", "B) Collocation", "C) Paradigm", "D) Word family"],
+        "answer": "C) Paradigm"
+    },
+    {
+        "question": "49. Words with elements from different languages are:",
+        "options": ["A) Native", "B) Mixed-origin", "C) Neologisms", "D) Clippings"],
+        "answer": "B) Mixed-origin"
+    },
+    {
+        "question": "50. Borrowing identification depends on:",
+        "options": ["A) Spelling", "B) Stress", "C) Phonetic, morphological, semantic criteria", "D) Alphabet"],
+        "answer": "C) Phonetic, morphological, semantic criteria"
+    },
+    {
+        "question": "51. Allomorphs are:",
+        "options": ["A) Different meanings of the same word", "B) Variants of a morpheme with the same function",
+                    "C) Word endings", "D) Phonemes in context"],
+        "answer": "B) Variants of a morpheme with the same function"
+    },
+    {
+        "question": "52. Hyponymy is the semantic relation of:",
+        "options": ["A) Similarity", "B) Generalization", "C) Inclusion", "D) Opposition"],
+        "answer": "C) Inclusion"
+    },
+    {
+        "question": "53. External structure of the word refers to:",
+        "options": ["A) The way it sounds", "B) The way it is written", "C) Its morphological composition",
+                    "D) Its grammatical function"],
+        "answer": "C) Its morphological composition"
+    },
+    {
+        "question": "54. The study of vocabulary is called:",
+        "options": ["A) Morphology", "B) Syntax", "C) Lexicology", "D) Phonetics"],
+        "answer": "C) Lexicology"
+    },
+    {
+        "question": "55. The smallest unit of meaning is:",
+        "options": ["A) Phoneme", "B) Word", "C) Morpheme", "D) Phrase"],
+        "answer": "C) Morpheme"
+    },
+    {
+        "question": "56. A word with same spelling and pronunciation but different meanings is:",
+        "options": ["A) Antonym", "B) Polyseme", "C) Homonym", "D) Synonym"],
+        "answer": "C) Homonym"
+    },
+    {
+        "question": "57. Forming a new word by adding prefixes or suffixes is:",
+        "options": ["A) Conversion", "B) Blending", "C) Affixation", "D) Compounding"],
+        "answer": "C) Affixation"
+    },
+    {
+        "question": "58. Combining parts of two words to form a new one is:",
+        "options": ["A) Clipping", "B) Acronym", "C) Blending", "D) Conversion"],
+        "answer": "C) Blending"
+    },
+    {
+        "question": "59. A word borrowed from another language is called:",
+        "options": ["A) Native word", "B) Derivative", "C) Loanword", "D) Compound"],
+        "answer": "C) Loanword"
+    },
+    {
+        "question": "60. Meaning based on dictionary definition is:",
+        "options": ["A) Connotative meaning", "B) Denotative meaning", "C) Figurative meaning", "D) Emotional meaning"],
+        "answer": "B) Denotative meaning"
+    },
+    {
+        "question": "61. A synonym is a word:",
+        "options": ["A) With the opposite meaning", "B) With the same or nearly the same meaning",
+                    "C) With a different form", "D) Borrowed from Latin"],
+        "answer": "B) With the same or nearly the same meaning"
+    },
+    {
+        "question": "62. Which is a compound word?",
+        "options": ["A) Teacher", "B) Notebook", "C) Teach", "D) Teachful"],
+        "answer": "B) Notebook"
+    },
+    {
+        "question": "63. The historical study of word origins is called:",
+        "options": ["A) Morphology", "B) Semasiology", "C) Etymology", "D) Lexicography"],
+        "answer": "C) Etymology"
+    },
+    {
+        "question": "64. When a word changes part of speech without changing form, it's called:",
+        "options": ["A) Derivation", "B) Blending", "C) Conversion", "D) Affixation"],
+        "answer": "C) Conversion"
+    },
+    {
+        "question": "65. An antonym is a word:",
+        "options": ["A) That sounds similar", "B) From the same root", "C) Opposite in meaning",
+                    "D) That forms part of an idiom"],
+        "answer": "C) Opposite in meaning"
+    },
+    {
+        "question": "66. Which word is a neologism?",
+        "options": ["A) Table", "B) Selfie", "C) Love", "D) Chair"],
+        "answer": "B) Selfie"
+    },
+    {
+        "question": "67. The morpheme carrying core meaning is the:",
+        "options": ["A) Prefix", "B) Infix", "C) Root", "D) Suffix"],
+        "answer": "C) Root"
+    },
+    {
+        "question": "68. A word that imitates sound is:",
+        "options": ["A) Onomatopoeia", "B) Blend", "C) Compound", "D) Acronym"],
+        "answer": "A) Onomatopoeia"
+    },
+    {
+        "question": "69. A shortened form like “ad” from “advertisement” is:",
+        "options": ["A) Clipping", "B) Conversion", "C) Blending", "D) Acronym"],
+        "answer": "A) Clipping"
+    },
+    {
+        "question": "70. A dictionary of synonyms and antonyms is a:",
+        "options": ["A) Glossary", "B) Thesaurus", "C) Lexicon", "D) Phrasebook"],
+        "answer": "B) Thesaurus"
+    },
+    {
+        "question": "71. A morpheme that cannot stand alone is:",
+        "options": ["A) Free morpheme", "B) Bound morpheme", "C) Lexeme", "D) Word"],
+        "answer": "B) Bound morpheme"
+    },
+    {
+        "question": "72. An example of a lexical field is:",
+        "options": ["A) Eat, sleep, run", "B) Doctor, nurse, hospital", "C) High, tall, long", "D) It, is, the"],
+        "answer": "B) Doctor, nurse, hospital"
+    },
+    {
+        "question": "73. A polysemantic word has:",
+        "options": ["A) No meaning", "B) One meaning", "C) Several related meanings", "D) Opposite meanings"],
+        "answer": "C) Several related meanings"
+    },
+    {
+        "question": "74. Idioms and similar units are called:",
+        "options": ["A) Collocations", "B) Morphemes", "C) Phraseological units", "D) Suffixes"],
+        "answer": "C) Phraseological units"
+    },
+    {
+        "question": "75. Which is a compound noun?",
+        "options": ["A) Singer", "B) Blackboard", "C) Tall", "D) Happily"],
+        "answer": "B) Blackboard"
+    },
+    {
+        "question": "76. Social/emotional meaning of a word is called:",
+        "options": ["A) Denotation", "B) Connotation", "C) Reference", "D) Definition"],
+        "answer": "B) Connotation"
+    },
+    {
+        "question": "77. A lexeme is:",
+        "options": ["A) A synonym", "B) A unit of lexical meaning", "C) A phonetic form", "D) A grammatical case"],
+        "answer": "B) A unit of lexical meaning"
+    },
+    {
+        "question": "78. Which is a derived word?",
+        "options": ["A) Beauty", "B) Beautiful", "C) Blue", "D) But"],
+        "answer": "B) Beautiful"
+    },
+    {
+        "question": "79. Which word contains a prefix?",
+        "options": ["A) Teacher", "B) Unhappy", "C) Walking", "D) Quickly"],
+        "answer": "B) Unhappy"
+    },
+    {
+        "question": "80. Main source of new vocabulary today is:",
+        "options": ["A) Poetry", "B) Technology", "C) Fiction", "D) Latin"],
+        "answer": "B) Technology"
+    },
+    {
+        "question": "81. A dictionary for specialized fields is a:",
+        "options": ["A) Thesaurus", "B) Terminological dictionary", "C) Phrasebook", "D) Glossary"],
+        "answer": "B) Terminological dictionary"
+    },
+    {
+        "question": "82. An acronym is:",
+        "options": ["A) Word from initials pronounced as a word", "B) Word from two roots",
+                    "C) Word with many meanings", "D) Word opposite in meaning"],
+        "answer": "A) Word from initials pronounced as a word"
+    },
+    {
+        "question": "83. Forming a word by combining two full words is:",
+        "options": ["A) Clipping", "B) Conversion", "C) Compounding", "D) Abbreviation"],
+        "answer": "C) Compounding"
+    },
+    {
+        "question": "84. Main function of a suffix is:",
+        "options": ["A) Change sound", "B) Change part of speech or meaning", "C) Add stress", "D) Form compound"],
+        "answer": "B) Change part of speech or meaning"
+    },
+    {
+        "question": "85. Total stock of words in a language is called:",
+        "options": ["A) Lexicon", "B) Syntax", "C) Grammar", "D) Thesaurus"],
+        "answer": "A) Lexicon"
+    },
+    {
+        "question": "86. Which is a blend word?",
+        "options": ["A) Cupboard", "B) Motel", "C) Keyboard", "D) Blackberry"],
+        "answer": "B) Motel"
+    },
+    {
+        "question": "87. A monosemantic word has:",
+        "options": ["A) Many meanings", "B) One meaning", "C) Figurative meaning", "D) No usage"],
+        "answer": "B) One meaning"
+    },
+    {
+        "question": "88. Ability of words to combine is called:",
+        "options": ["A) Syntax", "B) Collocability", "C) Word formation", "D) Derivation"],
+        "answer": "B) Collocability"
+    },
+    {
+        "question": "89. Lexicography is the study of:",
+        "options": ["A) Word order", "B) Word origin", "C) Dictionary compilation", "D) Grammar"],
+        "answer": "C) Dictionary compilation"
+    },
+    {
+        "question": "90. Monolingual dictionaries:",
+        "options": ["A) Use two languages", "B) Include idioms", "C) Give definitions in one language",
+                    "D) Have pictures"],
+        "answer": "C) Give definitions in one language"
+    },
+    {
+        "question": "91. The word being defined in a dictionary is the:",
+        "options": ["A) Gloss", "B) Entry", "C) Keyword", "D) Lexicon"],
+        "answer": "B) Entry"
+    },
+    {
+        "question": "92. Etymological dictionary focuses on:",
+        "options": ["A) Word meaning", "B) Grammar", "C) Word origin and history", "D) Pronunciation"],
+        "answer": "C) Word origin and history"
+    },
+    {
+        "question": "93. Dictionary for legal or medical terms is a:",
+        "options": ["A) General dictionary", "B) Synonym dictionary", "C) Special dictionary", "D) Pocket dictionary"],
+        "answer": "C) Special dictionary"
+    },
+    {
+        "question": "94. A prescriptive dictionary:",
+        "options": ["A) Describes actual usage", "B) Records slang", "C) Tells how words should be used",
+                    "D) Contains idioms only"],
+        "answer": "C) Tells how words should be used"
+    },
+    {
+        "question": "95. Dictionary giving equivalents between two languages is:",
+        "options": ["A) Thesaurus", "B) Monolingual", "C) Bilingual", "D) Special"],
+        "answer": "C) Bilingual"
+    },
+    {
+        "question": "96. Word formation by adding affixes is called:",
+        "options": ["A) Clipping", "B) Conversion", "C) Affixation", "D) Blending"],
+        "answer": "C) Affixation"
+    },
+    {
+        "question": "97. 'To google' from 'Google' is an example of:",
+        "options": ["A) Borrowing", "B) Conversion", "C) Blending", "D) Back-formation"],
+        "answer": "B) Conversion"
+    },
+    {
+        "question": "98. Formation of 'ad' from 'advertisement' is:",
+        "options": ["A) Acronym", "B) Clipping", "C) Derivation", "D) Conversion"],
+        "answer": "B) Clipping"
+    },
+    {
+        "question": "99. Word 'sunflower' is formed through:",
+        "options": ["A) Derivation", "B) Blending", "C) Compounding", "D) Acronym"],
+        "answer": "C) Compounding"
+    },
+    {
+        "question": "100. NATO is formed by:",
+        "options": ["A) Blending", "B) Clipping", "C) Acronym", "D) Compounding"],
+        "answer": "C) Acronym"
+    }
+]
 
-questions_kor5 = []
+topik_questions_kor5 = [
+    {
+        "question": "1. '안녕하세요'는 무슨 뜻입니까?",
+        "options": ["A) 감사합니다", "B) 안녕히 가세요", "C) 안녕하십니까", "D) 안녕하세요"],
+        "answer": "D) 안녕하세요"
+    },
+    {
+        "question": "2. '학교'는 무엇입니까?",
+        "options": ["A) 밥", "B) 병원", "C) 공부하는 곳", "D) 시장"],
+        "answer": "C) 공부하는 곳"
+    },
+    {
+        "question": "3. '밥을 먹어요'는 무슨 뜻입니까?",
+        "options": ["A) 잠을 자요", "B) 밥을 사요", "C) 밥을 먹어요", "D) 밥을 줘요"],
+        "answer": "C) 밥을 먹어요"
+    },
+    {
+        "question": "4. '감사합니다'는 언제 사용합니까?",
+        "options": ["A) 잘 가요", "B) 미안해요", "C) 고마울 때", "D) 배고플 때"],
+        "answer": "C) 고마울 때"
+    },
+    {
+        "question": "5. '의자'는 무엇입니까?",
+        "options": ["A) 책", "B) 앉는 것", "C) 먹는 것", "D) 자는 것"],
+        "answer": "B) 앉는 것"
+    },
+    {
+        "question": "6. '저는 학생이에요.'의 뜻은?",
+        "options": ["A) 나는 선생님이에요", "B) 나는 의사예요", "C) 나는 학생이에요", "D) 나는 친구예요"],
+        "answer": "C) 나는 학생이에요"
+    },
+    {
+        "question": "7. '물'은 무엇입니까?",
+        "options": ["A) 우유", "B) 음료수", "C) 물건", "D) 물"],
+        "answer": "D) 물"
+    },
+    {
+        "question": "8. '어디 가요?'의 뜻은?",
+        "options": ["A) 뭐 해요?", "B) 어디 있어요?", "C) 어디 가요?", "D) 언제 와요?"],
+        "answer": "C) 어디 가요?"
+    },
+    {
+        "question": "9. '책상 위에 있어요.'에서 '위'는?",
+        "options": ["A) 아래", "B) 옆", "C) 앞", "D) 위"],
+        "answer": "D) 위"
+    },
+    {
+        "question": "10. '학교에 가요'는 무엇입니까?",
+        "options": ["A) 학교에서 자요", "B) 학교에 와요", "C) 학교에 가요", "D) 학교를 닫아요"],
+        "answer": "C) 학교에 가요"
+    },
+    {
+        "question": "11. '친구'는 누구입니까?",
+        "options": ["A) 가족", "B) 선생님", "C) 함께 노는 사람", "D) 의사"],
+        "answer": "C) 함께 노는 사람"
+    },
+    {
+        "question": "12. '사과를 먹어요'는 무슨 뜻입니까?",
+        "options": ["A) 사과를 사요", "B) 사과를 마셔요", "C) 사과를 먹어요", "D) 사과를 줘요"],
+        "answer": "C) 사과를 먹어요"
+    },
+    {
+        "question": "13. '이것은 뭐예요?'의 뜻은?",
+        "options": ["A) 이것 주세요", "B) 이게 뭐예요?", "C) 저것은 뭐예요?", "D) 무엇을 사요?"],
+        "answer": "B) 이게 뭐예요?"
+    },
+    {
+        "question": "14. '나는 밥을 먹어요'에서 '먹어요'는?",
+        "options": ["A) 자다", "B) 마시다", "C) 먹다", "D) 오다"],
+        "answer": "C) 먹다"
+    },
+    {
+        "question": "15. '집'은 무엇입니까?",
+        "options": ["A) 일하는 곳", "B) 자는 곳", "C) 공부하는 곳", "D) 물건 사는 곳"],
+        "answer": "B) 자는 곳"
+    },
+    {
+        "question": "16. '전화해요'는 무엇을 합니까?",
+        "options": ["A) 말해요", "B) 전화해요", "C) 일해요", "D) 공부해요"],
+        "answer": "B) 전화해요"
+    },
+    {
+        "question": "17. '얼마예요?'는 언제 물어봐요?",
+        "options": ["A) 시간", "B) 가격", "C) 이름", "D) 장소"],
+        "answer": "B) 가격"
+    },
+    {
+        "question": "18. '화장실이 어디예요?'에서 '화장실'은?",
+        "options": ["A) 방", "B) 부엌", "C) 목욕탕", "D) 화장실"],
+        "answer": "D) 화장실"
+    },
+    {
+        "question": "19. '오늘 날씨가 어때요?'에 대한 좋은 대답은?",
+        "options": ["A) 예뻐요", "B) 맛있어요", "C) 좋아요", "D) 많아요"],
+        "answer": "C) 좋아요"
+    },
+    {
+        "question": "20. '저는 우즈베키스탄 사람이에요.'는?",
+        "options": ["A) 나는 학생이에요", "B) 나는 한국 사람이에요", "C) 나는 일본 사람이에요", "D) 나는 우즈베키스탄 사람이에요"],
+        "answer": "D) 나는 우즈베키스탄 사람이에요"
+    },
+    {
+        "question": "21. '학교에서 공부해요.'는 무엇입니까?",
+        "options": ["A) 학교에 자요", "B) 학교에서 운동해요", "C) 학교에서 공부해요", "D) 학교에 가요"],
+        "answer": "C) 학교에서 공부해요"
+    },
+    {
+        "question": "22. '가방 안에 있어요'에서 '안'의 의미는?",
+        "options": ["A) 위", "B) 밖", "C) 아래", "D) 안"],
+        "answer": "D) 안"
+    },
+    {
+        "question": "23. '무엇을 해요?'는 무엇을 묻습니까?",
+        "options": ["A) 언제", "B) 어디서", "C) 누구", "D) 무엇"],
+        "answer": "D) 무엇"
+    },
+    {
+        "question": "24. '빵집'은 무엇을 파는 곳입니까?",
+        "options": ["A) 물", "B) 빵", "C) 밥", "D) 라면"],
+        "answer": "B) 빵"
+    },
+    {
+        "question": "25. '저는 학생입니다.'의 반말은?",
+        "options": ["A) 나는 학생이야", "B) 나는 학생입니다", "C) 나는 친구야", "D) 저는 학생이야"],
+        "answer": "A) 나는 학생이야"
+    },
+    {
+        "question": "26. '오늘은 일요일이에요.' 무슨 뜻입니까?",
+        "options": ["A) 오늘은 월요일이에요", "B) 오늘은 쉬는 날이에요", "C) 오늘은 학교 가는 날이에요", "D) 오늘은 시험이에요"],
+        "answer": "B) 오늘은 쉬는 날이에요"
+    },
+    {
+        "question": "27. '얼굴이 예뻐요'는?",
+        "options": ["A) 얼굴이 커요", "B) 얼굴이 예뻐요", "C) 얼굴이 작아요", "D) 얼굴이 나빠요"],
+        "answer": "B) 얼굴이 예뻐요"
+    },
+    {
+        "question": "28. '지금 뭐 해요?'에 대한 대답은?",
+        "options": ["A) 지금 학교", "B) 지금 집이에요", "C) 지금 밥 먹어요", "D) 지금 가요"],
+        "answer": "C) 지금 밥 먹어요"
+    },
+    {
+        "question": "29. '우산'은 언제 써요?",
+        "options": ["A) 눈 올 때", "B) 비 올 때", "C) 더울 때", "D) 바람 불 때"],
+        "answer": "B) 비 올 때"
+    },
+    {
+        "question": "30. '학교에서 만나요'는?",
+        "options": ["A) 학교에 가요", "B) 학교에서 자요", "C) 학교에서 만나요", "D) 학교를 봐요"],
+        "answer": "C) 학교에서 만나요"
+    },
+    {
+        "question": "31. '옷을 입어요'의 뜻은?",
+        "options": ["A) 옷을 벗어요", "B) 옷을 입어요", "C) 옷을 줘요", "D) 옷을 사요"],
+        "answer": "B) 옷을 입어요"
+    },
+    {
+        "question": "32. '오늘은 더워요'는 무슨 뜻입니까?",
+        "options": ["A) 추워요", "B) 시원해요", "C) 더워요", "D) 비 와요"],
+        "answer": "C) 더워요"
+    },
+    {
+        "question": "33. '한국어 공부해요'는?",
+        "options": ["A) 영어 공부해요", "B) 한국어 공부해요", "C) 한국어 말해요", "D) 한국에 가요"],
+        "answer": "B) 한국어 공부해요"
+    },
+    {
+        "question": "34. '저는 회사에 다녀요'는?",
+        "options": ["A) 회사에 가요", "B) 회사에 자요", "C) 회사에서 공부해요", "D) 회사에 다녀요"],
+        "answer": "D) 회사에 다녀요"
+    },
+    {
+        "question": "35. '배고파요'는 무슨 뜻입니까?",
+        "options": ["A) 목말라요", "B) 졸려요", "C) 배고파요", "D) 피곤해요"],
+        "answer": "C) 배고파요"
+    },
+    {
+        "question": "36. '커피 마셔요'는?",
+        "options": ["A) 커피 마셔요", "B) 커피 사요", "C) 커피 줘요", "D) 커피 봐요"],
+        "answer": "A) 커피 마셔요"
+    },
+    {
+        "question": "37. '공부해요'는 무엇을 합니까?",
+        "options": ["A) 일해요", "B) 공부해요", "C) 자요", "D) 놀아요"],
+        "answer": "B) 공부해요"
+    },
+    {
+        "question": "38. '냉장고'는 무엇입니까?",
+        "options": ["A) 밥솥", "B) 텔레비전", "C) 음식을 차게 하는 것", "D) 세탁기"],
+        "answer": "C) 음식을 차게 하는 것"
+    },
+    {
+        "question": "39. '책을 사요'는?",
+        "options": ["A) 책을 읽어요", "B) 책을 줘요", "C) 책을 사요", "D) 책을 덮어요"],
+        "answer": "C) 책을 사요"
+    },
+    {
+        "question": "40. '텔레비전을 봐요'는?",
+        "options": ["A) 텔레비전을 들어요", "B) 텔레비전을 꺼요", "C) 텔레비전을 봐요", "D) 텔레비전을 팔아요"],
+        "answer": "C) 텔레비전을 봐요"
+    },
+    {
+        "question": "41. '한국 음식'은 무엇입니까?",
+        "options": ["A) 스파게티", "B) 초밥", "C) 불고기", "D) 햄버거"],
+        "answer": "C) 불고기"
+    },
+    {
+        "question": "42. '일곱 시에 일어나요'는?",
+        "options": ["A) 일곱 시에 자요", "B) 일곱 시에 먹어요", "C) 일곱 시에 일어나요", "D) 일곱 시에 운동해요"],
+        "answer": "C) 일곱 시에 일어나요"
+    },
+    {
+        "question": "43. '운동해요'는 무슨 뜻입니까?",
+        "options": ["A) 공부해요", "B) 청소해요", "C) 운동해요", "D) 자요"],
+        "answer": "C) 운동해요"
+    },
+    {
+        "question": "44. '어머니'는 누구입니까?",
+        "options": ["A) 친구", "B) 선생님", "C) 엄마", "D) 동생"],
+        "answer": "C) 엄마"
+    },
+    {
+        "question": "45. '한국에 가요'는?",
+        "options": ["A) 한국에 와요", "B) 한국에 가요", "C) 한국에서 와요", "D) 한국을 봐요"],
+        "answer": "B) 한국에 가요"
+    },
+    {
+        "question": "46. '시간이 없어요'는?",
+        "options": ["A) 시간이 많아요", "B) 시간이 없어요", "C) 시간이 길어요", "D) 시간이 늦어요"],
+        "answer": "B) 시간이 없어요"
+    },
+    {
+        "question": "47. '학생'은 누구입니까?",
+        "options": ["A) 공부하는 사람", "B) 일하는 사람", "C) 자는 사람", "D) 말하는 사람"],
+        "answer": "A) 공부하는 사람"
+    },
+    {
+        "question": "48. '버스를 타요'는?",
+        "options": ["A) 버스를 봐요", "B) 버스를 사요", "C) 버스를 타요", "D) 버스를 내려요"],
+        "answer": "C) 버스를 타요"
+    },
+    {
+        "question": "49. '영화를 봐요'는?",
+        "options": ["A) 영화를 먹어요", "B) 영화를 봐요", "C) 영화를 사요", "D) 영화를 줘요"],
+        "answer": "B) 영화를 봐요"
+    },
+    {
+        "question": "50. '책을 읽어요'는 무슨 뜻입니까?",
+        "options": ["A) 책을 닫아요", "B) 책을 읽어요", "C) 책을 사요", "D) 책을 들어요"],
+        "answer": "B) 책을 읽어요"
+    }
+]
 
-questions_kor6 = []
+topik_questions_kor6 = [
+{
+        "question": "1. '저는 우유를 좋아해요.'에서 '우유'는 무엇입니까?",
+        "options": ["A) 물", "B) 차", "C) 우유", "D) 주스"],
+        "answer": "C) 우유"
+    },
+    {
+        "question": "2. '시장에 가요'는 무슨 뜻입니까?",
+        "options": ["A) 시장에서 자요", "B) 시장에서 만나요", "C) 시장에 가요", "D) 시장을 닫아요"],
+        "answer": "C) 시장에 가요"
+    },
+    {
+        "question": "3. '고양이'는 어떤 동물입니까?",
+        "options": ["A) 강아지", "B) 고양이", "C) 토끼", "D) 사자"],
+        "answer": "B) 고양이"
+    },
+    {
+        "question": "4. '색연필'은 어디에 사용합니까?",
+        "options": ["A) 먹을 때", "B) 잴 때", "C) 그림 그릴 때", "D) 노래할 때"],
+        "answer": "C) 그림 그릴 때"
+    },
+    {
+        "question": "5. '텔레비전을 꺼요'는?",
+        "options": ["A) 텔레비전을 켜요", "B) 텔레비전을 꺼요", "C) 텔레비전을 사요", "D) 텔레비전을 봐요"],
+        "answer": "B) 텔레비전을 꺼요"
+    },
+    {
+        "question": "6. '신발'은 어디에 신어요?",
+        "options": ["A) 머리", "B) 손", "C) 발", "D) 얼굴"],
+        "answer": "C) 발"
+    },
+    {
+        "question": "7. '형'은 누구입니까?",
+        "options": ["A) 남동생", "B) 오빠", "C) 형", "D) 아버지"],
+        "answer": "C) 형"
+    },
+    {
+        "question": "8. '시계'는 무엇을 봅니까?",
+        "options": ["A) 시간", "B) 날씨", "C) 날짜", "D) 요일"],
+        "answer": "A) 시간"
+    },
+    {
+        "question": "9. '도서관에서 책을 빌려요.'의 뜻은?",
+        "options": ["A) 책을 팔아요", "B) 책을 사요", "C) 책을 빌려요", "D) 책을 읽어요"],
+        "answer": "C) 책을 빌려요"
+    },
+    {
+        "question": "10. '음악을 들어요'는?",
+        "options": ["A) 음악을 봐요", "B) 음악을 말해요", "C) 음악을 들어요", "D) 음악을 줘요"],
+        "answer": "C) 음악을 들어요"
+    },
+{
+        "question": "11. '냉면'은 어떤 음식입니까?",
+        "options": ["A) 따뜻한 음식", "B) 차가운 음식", "C) 단 음식", "D) 매운 음식"],
+        "answer": "B) 차가운 음식"
+    },
+    {
+        "question": "12. '학생들이 운동장에서 축구해요.'에서 '운동장'은 어디입니까?",
+        "options": ["A) 교실", "B) 병원", "C) 밖에서 노는 곳", "D) 식당"],
+        "answer": "C) 밖에서 노는 곳"
+    },
+    {
+        "question": "13. '병원에 가요'는 왜 갑니까?",
+        "options": ["A) 밥을 먹으러", "B) 책을 사러", "C) 아파서", "D) 놀러"],
+        "answer": "C) 아파서"
+    },
+    {
+        "question": "14. '지하철을 타요'는 무엇입니까?",
+        "options": ["A) 걸어요", "B) 운전해요", "C) 버스를 타요", "D) 전철을 타요"],
+        "answer": "D) 전철을 타요"
+    },
+    {
+        "question": "15. '방이 넓어요'는 어떤 뜻입니까?",
+        "options": ["A) 방이 좁아요", "B) 방이 커요", "C) 방이 어두워요", "D) 방이 작아요"],
+        "answer": "B) 방이 커요"
+    },
+    {
+        "question": "16. '저는 매일 운동해요'에서 '매일'은?",
+        "options": ["A) 어제", "B) 오늘", "C) 매주", "D) 매일"],
+        "answer": "D) 매일"
+    },
+    {
+        "question": "17. '도착했어요'는 언제 말합니까?",
+        "options": ["A) 출발할 때", "B) 도착했을 때", "C) 준비할 때", "D) 공부할 때"],
+        "answer": "B) 도착했을 때"
+    },
+    {
+        "question": "18. '아버지는 회사에 다녀요'는 무슨 뜻입니까?",
+        "options": ["A) 아버지는 집에 있어요", "B) 아버지는 학교에 다녀요", "C) 아버지는 회사에 다녀요", "D) 아버지는 쉬어요"],
+        "answer": "C) 아버지는 회사에 다녀요"
+    },
+    {
+        "question": "19. '공책에 글을 써요'는 무엇입니까?",
+        "options": ["A) 그림을 그려요", "B) 글을 써요", "C) 색칠해요", "D) 노래해요"],
+        "answer": "B) 글을 써요"
+    },
+    {
+        "question": "20. '창문을 열어요'의 반대말은?",
+        "options": ["A) 문을 열어요", "B) 창문을 닫아요", "C) 불을 켜요", "D) 창을 닦아요"],
+        "answer": "B) 창문을 닫아요"
+    },
+    {
+        "question": "21. '컴퓨터를 켜요'는 무엇을 하나요?",
+        "options": ["A) 컴퓨터를 꺼요", "B) 컴퓨터를 들어요", "C) 컴퓨터를 켜요", "D) 컴퓨터를 닫아요"],
+        "answer": "C) 컴퓨터를 켜요"
+    },
+    {
+        "question": "22. '점심을 먹어요'는 어느 시간입니까?",
+        "options": ["A) 아침", "B) 점심", "C) 저녁", "D) 새벽"],
+        "answer": "B) 점심"
+    },
+    {
+        "question": "23. '비행기를 타요'는 어디에 갈 때 사용합니까?",
+        "options": ["A) 멀리", "B) 근처", "C) 시장", "D) 학교"],
+        "answer": "A) 멀리"
+    },
+    {
+        "question": "24. '우산을 써요'는 언제입니까?",
+        "options": ["A) 더울 때", "B) 비 올 때", "C) 추울 때", "D) 눈 올 때"],
+        "answer": "B) 비 올 때"
+    },
+    {
+        "question": "25. '가게에서 물건을 사요'는 무엇입니까?",
+        "options": ["A) 공부해요", "B) 일해요", "C) 쇼핑해요", "D) 쉬어요"],
+        "answer": "C) 쇼핑해요"
+    },
+    {
+        "question": "26. '지금 쉬고 있어요'는 무엇입니까?",
+        "options": ["A) 일해요", "B) 운동해요", "C) 쉬어요", "D) 자요"],
+        "answer": "C) 쉬어요"
+    },
+    {
+        "question": "27. '시험을 봐요'는 어떤 상황입니까?",
+        "options": ["A) 밥을 먹어요", "B) 친구를 만나요", "C) 공부해요", "D) 시험해요"],
+        "answer": "D) 시험해요"
+    },
+    {
+        "question": "28. '밖에 나가요'는 무엇입니까?",
+        "options": ["A) 안에 있어요", "B) 집에 있어요", "C) 밖에 나가요", "D) 누워요"],
+        "answer": "C) 밖에 나가요"
+    },
+    {
+        "question": "29. '전화번호를 알아요'의 의미는?",
+        "options": ["A) 전화기를 알아요", "B) 번호를 말해요", "C) 전화번호를 알아요", "D) 전화해요"],
+        "answer": "C) 전화번호를 알아요"
+    },
+    {
+        "question": "30. '생일 축하해요'는 언제 말합니까?",
+        "options": ["A) 졸업식", "B) 생일", "C) 시험", "D) 결혼식"],
+        "answer": "B) 생일"
+    },
+    {
+        "question": "31. '도와주세요'는 어떤 상황입니까?",
+        "options": ["A) 혼자 할 수 있어요", "B) 필요 없어요", "C) 도움이 필요해요", "D) 공부하고 있어요"],
+        "answer": "C) 도움이 필요해요"
+    },
+    {
+        "question": "32. '방이 깨끗해요'는 무슨 뜻입니까?",
+        "options": ["A) 방이 더러워요", "B) 방이 깨끗해요", "C) 방이 커요", "D) 방이 좁아요"],
+        "answer": "B) 방이 깨끗해요"
+    },
+    {
+        "question": "33. '눈이 와요'는 어떤 날씨입니까?",
+        "options": ["A) 비가 와요", "B) 해가 나요", "C) 바람이 불어요", "D) 눈이 와요"],
+        "answer": "D) 눈이 와요"
+    },
+    {
+        "question": "34. '여름'은 어떤 계절입니까?",
+        "options": ["A) 더운 계절", "B) 추운 계절", "C) 비 오는 계절", "D) 눈 오는 계절"],
+        "answer": "A) 더운 계절"
+    },
+    {
+        "question": "35. '학교에 늦었어요'는 무슨 뜻입니까?",
+        "options": ["A) 제시간에 갔어요", "B) 빨리 갔어요", "C) 늦게 갔어요", "D) 가지 않았어요"],
+        "answer": "C) 늦게 갔어요"
+    },
+    {
+        "question": "36. '책을 펴요'는 무엇을 하나요?",
+        "options": ["A) 책을 닫아요", "B) 책을 던져요", "C) 책을 펴요", "D) 책을 써요"],
+        "answer": "C) 책을 펴요"
+    },
+    {
+        "question": "37. '영수증 주세요'는 어디서 말합니까?",
+        "options": ["A) 학교", "B) 식당", "C) 가게", "D) 도서관"],
+        "answer": "C) 가게"
+    },
+    {
+        "question": "38. '우체국에 가요'는 무엇을 하기 위해서입니까?",
+        "options": ["A) 책을 빌리러", "B) 우편을 보내러", "C) 밥을 먹으러", "D) 돈을 찾으러"],
+        "answer": "B) 우편을 보내러"
+    },
+    {
+        "question": "39. '한국어 수업이 재미있어요'는?",
+        "options": ["A) 수업이 지루해요", "B) 수업이 좋아요", "C) 수업이 많아요", "D) 수업이 어려워요"],
+        "answer": "B) 수업이 좋아요"
+    },
+    {
+        "question": "40. '밤에 자요'는 어느 시간입니까?",
+        "options": ["A) 아침", "B) 점심", "C) 저녁", "D) 밤"],
+        "answer": "D) 밤"
+    },
+    {
+        "question": "41. '영화를 예매해요'는 무엇을 합니까?",
+        "options": ["A) 영화를 사요", "B) 영화를 미뤄요", "C) 영화를 예약해요", "D) 영화를 꺼요"],
+        "answer": "C) 영화를 예약해요"
+    },
+    {
+        "question": "42. '여권이 있어요?'는 언제 물어봅니까?",
+        "options": ["A) 병원에서", "B) 비행기를 탈 때", "C) 가게에서", "D) 도서관에서"],
+        "answer": "B) 비행기를 탈 때"
+    },
+    {
+        "question": "43. '사진을 찍어요'는 무엇입니까?",
+        "options": ["A) 사진을 말해요", "B) 사진을 줘요", "C) 사진을 찍어요", "D) 사진을 사요"],
+        "answer": "C) 사진을 찍어요"
+    },
+    {
+        "question": "44. '휴대폰을 충전해요'는?",
+        "options": ["A) 휴대폰을 꺼요", "B) 휴대폰을 빌려요", "C) 휴대폰을 충전해요", "D) 휴대폰을 팔아요"],
+        "answer": "C) 휴대폰을 충전해요"
+    },
+    {
+        "question": "45. '공항에 도착했어요'는 무슨 뜻입니까?",
+        "options": ["A) 아직 안 갔어요", "B) 출발했어요", "C) 도착했어요", "D) 기다려요"],
+        "answer": "C) 도착했어요"
+    },
+    {
+        "question": "46. '오늘은 토요일이에요'는 무슨 날입니까?",
+        "options": ["A) 평일", "B) 주말", "C) 시험날", "D) 생일"],
+        "answer": "B) 주말"
+    },
+    {
+        "question": "47. '학교에 지각했어요'는?",
+        "options": ["A) 일찍 갔어요", "B) 늦게 갔어요", "C) 안 갔어요", "D) 자고 있어요"],
+        "answer": "B) 늦게 갔어요"
+    },
+    {
+        "question": "48. '날씨가 흐려요'는 어떤 날씨입니까?",
+        "options": ["A) 맑아요", "B) 더워요", "C) 흐려요", "D) 시원해요"],
+        "answer": "C) 흐려요"
+    },
+    {
+        "question": "49. '택시를 잡아요'는 무슨 뜻입니까?",
+        "options": ["A) 택시를 사요", "B) 택시를 타요", "C) 택시를 빌려요", "D) 택시를 만들어줘요"],
+        "answer": "B) 택시를 타요"
+    },
+    {
+        "question": "50. '오늘 몇 월 며칠이에요?'는 무엇을 물어요?",
+        "options": ["A) 시간", "B) 날짜", "C) 이름", "D) 요일"],
+        "answer": "B) 날짜"
+    }
+]
 
 # Foydalanuvchi holatlari
 user_progress = {}
 user_tests = {}
 user_scores = {}
-
 
 # Test nomiga qarab savollarni olish
 def get_questions(test_key):
@@ -2242,10 +3259,9 @@ def get_questions(test_key):
         'test2': questions_eng2,
         'test3': questions_eng3,
         'test4': questions_eng4,
-        'test5': questions_kor5,
-        'test6': questions_kor6,
+        'test5': topik_questions_kor5,
+        'test6': topik_questions_kor6,
     }.get(test_key, [])
-
 
 # Asosiy menyu
 async def show_main_menu(update, context):
@@ -2264,11 +3280,9 @@ async def show_main_menu(update, context):
     else:
         await update.message.reply_text("Please select a test:", reply_markup=reply_markup)
 
-
 # /start komandasi
 async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
     await show_main_menu(update, context)
-
 
 # Savol yuborish
 async def send_question(update: Update, context: ContextTypes.DEFAULT_TYPE, review_mode=False):
@@ -2299,7 +3313,6 @@ async def send_question(update: Update, context: ContextTypes.DEFAULT_TYPE, revi
     reply_markup = InlineKeyboardMarkup(buttons)
 
     await context.bot.send_message(chat_id=update.effective_chat.id, text=q["question"], reply_markup=reply_markup)
-
 
 # Tugmalarni qayta ishlash
 async def handle_answer(update: Update, context: ContextTypes.DEFAULT_TYPE):
@@ -2363,7 +3376,6 @@ async def handle_answer(update: Update, context: ContextTypes.DEFAULT_TYPE):
     user_progress[user_id] = index + 1
     await send_question(update, context)
 
-
 # Botni ishga tushurish
 def main():
     app = ApplicationBuilder().token("8061266773:AAEKneALpb18B01bKlwqhbCFKSv7x38mGt8").build()
@@ -2371,7 +3383,6 @@ def main():
     app.add_handler(CallbackQueryHandler(handle_answer))
     print("✅ Bot ishga tushdi")
     app.run_polling()
-
 
 if __name__ == "__main__":
     main()
