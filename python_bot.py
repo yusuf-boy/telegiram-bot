@@ -3494,6 +3494,9 @@ async def handle_answer(update: Update, context: ContextTypes.DEFAULT_TYPE):
     selected = data
     correct = questions[index]["answer"] ### shuyerga [0] oxiriga qoyiladii javobda korinmaslik uchun
 
+    # Avval progress'ni yangilaymiz
+    user_progress[user_id] = index + 1
+
     if selected == correct:
         reply = "✅ To‘g‘ri javob!"
         user_scores[user_id]["correct"] += 1
@@ -3505,7 +3508,6 @@ async def handle_answer(update: Update, context: ContextTypes.DEFAULT_TYPE):
         text=f"{questions[index]['question']}\n\nSiz tanladingiz: {selected}\n{reply}"
     )
 
-    user_progress[user_id] = index + 1
     await send_question(update, context)
 
 # Botni ishga tushurish
