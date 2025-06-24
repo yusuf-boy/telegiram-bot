@@ -2741,7 +2741,7 @@ questions_eng4 = [
     }
 ]
 
-topik_questions_kor1 = [
+topik_questions_kor5 = [
     {
         "question": "1. '안녕하세요'는 무슨 뜻입니까?",
         "options": ["A) 감사합니다", "B) 안녕히 가세요", "C) 안녕하십니까", "D) 안녕하세요"],
@@ -2994,7 +2994,7 @@ topik_questions_kor1 = [
     }
 ]
 
-topik_questions_kor2 = [
+topik_questions_kor6 = [
 {
         "question": "1. '저는 우유를 좋아해요.'에서 '우유'는 무엇입니까?",
         "options": ["A) 물", "B) 차", "C) 우유", "D) 주스"],
@@ -3246,7 +3246,7 @@ topik_questions_kor2 = [
         "answer": "B) 날짜"
     }
 ]
-topik_questions_kor3 = [
+topik_questions_kor7 = [
 {
         "question": "1. 다음 중 병원에서 할 수 있는 일은 무엇입니까?",
         "options": ["A) 책을 읽어요", "B) 밥을 먹어요", "C) 진찰을 받아요", "D) 운동을 해요"],
@@ -3498,7 +3498,7 @@ topik_questions_kor3 = [
         "answer": "A) 집"
     }
 ]
-topik_grammar = [
+topik_grammar8 = [
 {
         "grammar": "1. -도록",
         "meaning": "... qilish uchun / ... bo‘lishi uchun",
@@ -3650,7 +3650,7 @@ topik_grammar = [
         "example": "공부해야 해요 – O‘qish kerak"
     }
 ]
-topik_grammar_test = [
+topik_grammar_test9 = [
     {
         "question": "1. '-도록' grammatikasi nimani anglatadi?",
         "options": [
@@ -3866,11 +3866,11 @@ def get_questions(test_key):
         'test2': questions_eng2,
         'test3': questions_eng3,
         'test4': questions_eng4,
-        'test5': topik_questions_kor1,
-        'test6': topik_questions_kor2,
-        'test7': topik_questions_kor3,
-        'grammar': topik_grammar,
-        'test': topik_grammar_test
+        'test5': topik_questions_kor5,
+        'test6': topik_questions_kor6,
+        'test7': topik_questions_kor7,
+        'test8': topik_grammar8,
+        'test9': topik_grammar_test9
     }.get(test_key, [])
 
 # Asosiy menyu
@@ -3901,11 +3901,11 @@ async def show_english_menu(update, context):
 # Koreys testlari menyusi
 async def show_korean_menu(update, context):
     keyboard = [
-        [InlineKeyboardButton("🇰🇷 Korean Test 1", callback_data='test1')],
-        [InlineKeyboardButton("🇰🇷 Korean Test 2", callback_data='test2')],
-        [InlineKeyboardButton("🇰🇷 Korean Test 3", callback_data='test3')],
-        [InlineKeyboardButton("🇰🇷 Topik Grammar", callback_data='Grammar')],
-        [InlineKeyboardButton("🇰🇷 Topik Grammar Test ", callback_data='Test')],
+        [InlineKeyboardButton("🇰🇷 Korean Test 5", callback_data='test5')],
+        [InlineKeyboardButton("🇰🇷 Korean Test 6", callback_data='test6')],
+        [InlineKeyboardButton("🇰🇷 Korean Test 7", callback_data='test7')],
+        [InlineKeyboardButton("🇰🇷 Topik Grammar", callback_data='test8')],
+        [InlineKeyboardButton("🇰🇷 Topik Grammar Test ", callback_data='Test9')],
         [InlineKeyboardButton("⬅️ Orqaga", callback_data='main_menu')],
     ]
     reply_markup = InlineKeyboardMarkup(keyboard)
