@@ -3424,7 +3424,7 @@ async def send_question(update: Update, context: ContextTypes.DEFAULT_TYPE, revi
 
     q = questions[index]
 
-    buttons = [[InlineKeyboardButton(opt, callback_data=opt)] for opt in q["options"]] ### shuyerga ham (opt[0])
+    buttons = [[InlineKeyboardButton(opt, callback_data=opt[0])] for opt in q["options"]] ### shuyerga ham (opt[0])
 
     # 🔁 Qo‘shimcha tugmalar (orqaga va qaytadan)
     navigation_buttons = []
@@ -3492,7 +3492,7 @@ async def handle_answer(update: Update, context: ContextTypes.DEFAULT_TYPE):
         return
 
     selected = data
-    correct = questions[index]["answer"]### shuyerga [0] qoyiladii javobda korinmaslik uchun
+    correct = questions[index[0]]["answer"]### shuyerga [0] qoyiladii javobda korinmaslik uchun
 
     if selected == correct:
         reply = "✅ To‘g‘ri javob!"
