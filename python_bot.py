@@ -3508,6 +3508,7 @@ async def handle_answer(update: Update, context: ContextTypes.DEFAULT_TYPE):
         text=f"{questions[index]['question']}\n\nSiz tanladingiz: {selected}\n{reply}"
     )
 
+    user_progress[user_id] = index + 1
     await send_question(update, context)
 
 # Botni ishga tushurish
