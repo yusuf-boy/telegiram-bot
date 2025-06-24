@@ -3492,7 +3492,7 @@ async def handle_answer(update: Update, context: ContextTypes.DEFAULT_TYPE):
         return
 
     selected = data
-    correct = questions[index[0]]["answer"]### shuyerga [0] qoyiladii javobda korinmaslik uchun
+    correct = questions[index]["answer"][0] ### shuyerga [0] oxiriga qoyiladii javobda korinmaslik uchun
 
     if selected == correct:
         reply = "✅ To‘g‘ri javob!"
