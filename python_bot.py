@@ -99,6 +99,8 @@ if __name__ == '__main__':
     app.add_handler(CallbackQueryHandler(start_test, pattern="start_test"))
     app.add_handler(CallbackQueryHandler(handle_answer, pattern=r"^answer\|"))
     app.add_handler(CallbackQueryHandler(show_grammar, pattern="show_grammar"))
+    app.add_handler(CallbackQueryHandler(handle_answer))
 
     print("🤖 Bot ishga tushdi...")
     app.run_polling()
+
