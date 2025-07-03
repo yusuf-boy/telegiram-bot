@@ -61,6 +61,7 @@ async def send_question(update: Update, context: ContextTypes.DEFAULT_TYPE, revi
     navigation_buttons.append(InlineKeyboardButton("🏠 Bosh menyu", callback_data='main_menu'))
     buttons.append(navigation_buttons)
 
+
     reply_markup = InlineKeyboardMarkup(buttons)
 
     await context.bot.send_message(chat_id=update.effective_chat.id, text=q["question"], reply_markup=reply_markup)
