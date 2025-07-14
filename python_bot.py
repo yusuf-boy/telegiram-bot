@@ -57,7 +57,7 @@ async def button_handler(update: Update, context: ContextTypes.DEFAULT_TYPE):
 
 # 🔁 Ishga tushirish
 if __name__ == '__main__':
-    app = ApplicationBuilder().token("BOT_TOKEN_BU_YERGA").build()
+    app = ApplicationBuilder().token("8061266773:AAEKneALpb18B01bKlwqhbCFKSv7x38mGt8").build()
     app.add_handler(CommandHandler('start', start))
     app.add_handler(CallbackQueryHandler(button_handler))
     print("✅ Bot ishga tushdi.")
